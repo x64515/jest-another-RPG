@@ -1,0 +1,25 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x64515/jest-another-RPG.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "xavier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/x64515/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/x64515/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
